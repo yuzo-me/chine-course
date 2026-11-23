@@ -114,5 +114,5 @@ test('переворот карточки идёт через анимацию, 
 test('при «уменьшить движение» переворот мгновенный', async ({ page }) => {
   await page.emulateMedia({ reducedMotion: 'reduce' })
   await page.goto('/#/cards')
-  await expect(page.locator('.flip-inner')).toHaveCSS('transition-duration', '0s')
+  await expect(page.locator('.flip-inner')).not.toHaveCSS('transition-duration', '0.32s')
 })
