@@ -1,0 +1,29 @@
+# зависимости и сборка
+node_modules/
+web/dist/
+web/dev-dist/
+.vite/
+coverage/
+playwright-report/
+test-results/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# большие первоисточники (скачиваются скриптом, проверяются по SHA-256)
+content/sources/*.pdf
+content/sources/*.zip
+
+# секреты
+.env
+.env.local
+*.key
+
+# системное
+.DS_Store
+content/.venv/
+web/public/data/
+web/public/audio/
+web/public/hanzi/

@@ -1,0 +1,4884 @@
+{
+ "words": [
+  {
+   "officialSerial": 1,
+   "hanzi": "爱",
+   "pinyin": "ài",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00001"
+  },
+  {
+   "officialSerial": 2,
+   "hanzi": "八",
+   "pinyin": "bā",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00002"
+  },
+  {
+   "officialSerial": 3,
+   "hanzi": "爸爸",
+   "pinyin": "bàba",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00003"
+  },
+  {
+   "officialSerial": 4,
+   "hanzi": "吧",
+   "pinyin": "ba",
+   "pos": "助",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00004"
+  },
+  {
+   "officialSerial": 5,
+   "hanzi": "白天",
+   "pinyin": "báitiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00005"
+  },
+  {
+   "officialSerial": 6,
+   "hanzi": "百",
+   "pinyin": "bǎi",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00006"
+  },
+  {
+   "officialSerial": 7,
+   "hanzi": "半",
+   "pinyin": "bàn",
+   "pos": "数、（副）",
+   "sourceNote": "（4）",
+   "sourcePage": 80,
+   "id": "HSK-V00007"
+  },
+  {
+   "officialSerial": 8,
+   "hanzi": "包子",
+   "pinyin": "bāozi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00008"
+  },
+  {
+   "officialSerial": 9,
+   "hanzi": "杯子",
+   "pinyin": "bēizi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00009"
+  },
+  {
+   "officialSerial": 10,
+   "hanzi": "本",
+   "pinyin": "běn",
+   "pos": "量",
+   "sourceNote": "|омоним:1",
+   "sourcePage": 80,
+   "id": "HSK-V00010"
+  },
+  {
+   "officialSerial": 11,
+   "hanzi": "边",
+   "pinyin": "biān",
+   "pos": "名、后缀",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00011"
+  },
+  {
+   "officialSerial": 12,
+   "hanzi": "病",
+   "pinyin": "bìng",
+   "pos": "名、动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00012"
+  },
+  {
+   "officialSerial": 13,
+   "hanzi": "不",
+   "pinyin": "bù",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00013"
+  },
+  {
+   "officialSerial": 14,
+   "hanzi": "不客气",
+   "pinyin": "bú kèqi",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00014"
+  },
+  {
+   "officialSerial": 15,
+   "hanzi": "不要",
+   "pinyin": "búyào",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00015"
+  },
+  {
+   "officialSerial": 16,
+   "hanzi": "菜",
+   "pinyin": "cài",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00016"
+  },
+  {
+   "officialSerial": 17,
+   "hanzi": "茶",
+   "pinyin": "chá",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00017"
+  },
+  {
+   "officialSerial": 18,
+   "hanzi": "唱",
+   "pinyin": "chàng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00018"
+  },
+  {
+   "officialSerial": 19,
+   "hanzi": "超市",
+   "pinyin": "chāoshì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00019"
+  },
+  {
+   "officialSerial": 20,
+   "hanzi": "车",
+   "pinyin": "chē",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00020"
+  },
+  {
+   "officialSerial": 21,
+   "hanzi": "吃",
+   "pinyin": "chī",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00021"
+  },
+  {
+   "officialSerial": 22,
+   "hanzi": "出租车",
+   "pinyin": "chūzūchē",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00022"
+  },
+  {
+   "officialSerial": 23,
+   "hanzi": "穿",
+   "pinyin": "chuān",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00023"
+  },
+  {
+   "officialSerial": 24,
+   "hanzi": "打电话",
+   "pinyin": "dǎ diànhuà",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00024"
+  },
+  {
+   "officialSerial": 25,
+   "hanzi": "大",
+   "pinyin": "dà",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00025"
+  },
+  {
+   "officialSerial": 26,
+   "hanzi": "大家",
+   "pinyin": "dàjiā",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00026"
+  },
+  {
+   "officialSerial": 27,
+   "hanzi": "大学",
+   "pinyin": "dàxué",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00027"
+  },
+  {
+   "officialSerial": 28,
+   "hanzi": "大学生",
+   "pinyin": "dàxuéshēng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00028"
+  },
+  {
+   "officialSerial": 29,
+   "hanzi": "到",
+   "pinyin": "dào",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00029"
+  },
+  {
+   "officialSerial": 30,
+   "hanzi": "的",
+   "pinyin": "de",
+   "pos": "助",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00030"
+  },
+  {
+   "officialSerial": 31,
+   "hanzi": "弟弟",
+   "pinyin": "dìdi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00031"
+  },
+  {
+   "officialSerial": 32,
+   "hanzi": "第",
+   "pinyin": "dì",
+   "pos": "前缀",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00032"
+  },
+  {
+   "officialSerial": 33,
+   "hanzi": "点",
+   "pinyin": "diǎn",
+   "pos": "量、（名）",
+   "sourceNote": "（3）|омоним:1",
+   "sourcePage": 80,
+   "id": "HSK-V00033"
+  },
+  {
+   "officialSerial": 34,
+   "hanzi": "电话",
+   "pinyin": "diànhuà",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00034"
+  },
+  {
+   "officialSerial": 35,
+   "hanzi": "电脑",
+   "pinyin": "diànnǎo",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00035"
+  },
+  {
+   "officialSerial": 36,
+   "hanzi": "电视",
+   "pinyin": "diànshì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00036"
+  },
+  {
+   "officialSerial": 37,
+   "hanzi": "电影",
+   "pinyin": "diànyǐng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00037"
+  },
+  {
+   "officialSerial": 38,
+   "hanzi": "电影院",
+   "pinyin": "diànyǐngyuàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00038"
+  },
+  {
+   "officialSerial": 39,
+   "hanzi": "店",
+   "pinyin": "diàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00039"
+  },
+  {
+   "officialSerial": 40,
+   "hanzi": "东西",
+   "pinyin": "dōngxi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 80,
+   "id": "HSK-V00040"
+  },
+  {
+   "officialSerial": 41,
+   "hanzi": "都",
+   "pinyin": "dōu",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00041"
+  },
+  {
+   "officialSerial": 42,
+   "hanzi": "读",
+   "pinyin": "dú",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00042"
+  },
+  {
+   "officialSerial": 43,
+   "hanzi": "读书",
+   "pinyin": "dúshū",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00043"
+  },
+  {
+   "officialSerial": 44,
+   "hanzi": "对",
+   "pinyin": "duì",
+   "pos": "形、介、（动、量）",
+   "sourceNote": "（4）",
+   "sourcePage": 81,
+   "id": "HSK-V00044"
+  },
+  {
+   "officialSerial": 45,
+   "hanzi": "对不起",
+   "pinyin": "duìbuqǐ",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00045"
+  },
+  {
+   "officialSerial": 46,
+   "hanzi": "多",
+   "pinyin": "duō",
+   "pos": "形、动、代、（数、副）",
+   "sourceNote": "（2）",
+   "sourcePage": 81,
+   "id": "HSK-V00046"
+  },
+  {
+   "officialSerial": 47,
+   "hanzi": "多少",
+   "pinyin": "duōshao",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00047"
+  },
+  {
+   "officialSerial": 48,
+   "hanzi": "儿子",
+   "pinyin": "érzi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00048"
+  },
+  {
+   "officialSerial": 49,
+   "hanzi": "二",
+   "pinyin": "èr",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00049"
+  },
+  {
+   "officialSerial": 50,
+   "hanzi": "饭",
+   "pinyin": "fàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00050"
+  },
+  {
+   "officialSerial": 51,
+   "hanzi": "饭店",
+   "pinyin": "fàndiàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00051"
+  },
+  {
+   "officialSerial": 52,
+   "hanzi": "房间",
+   "pinyin": "fángjiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00052"
+  },
+  {
+   "officialSerial": 53,
+   "hanzi": "飞机",
+   "pinyin": "fēijī",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00053"
+  },
+  {
+   "officialSerial": 54,
+   "hanzi": "非常",
+   "pinyin": "fēicháng",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00054"
+  },
+  {
+   "officialSerial": 55,
+   "hanzi": "分",
+   "pinyin": "fēn",
+   "pos": "量、（动、名）",
+   "sourceNote": "（3）",
+   "sourcePage": 81,
+   "id": "HSK-V00055"
+  },
+  {
+   "officialSerial": 56,
+   "hanzi": "分钟",
+   "pinyin": "fēnzhōng",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00056"
+  },
+  {
+   "officialSerial": 57,
+   "hanzi": "高兴",
+   "pinyin": "gāoxìng",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00057"
+  },
+  {
+   "officialSerial": 58,
+   "hanzi": "哥哥",
+   "pinyin": "gēge",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00058"
+  },
+  {
+   "officialSerial": 59,
+   "hanzi": "歌",
+   "pinyin": "gē",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00059"
+  },
+  {
+   "officialSerial": 60,
+   "hanzi": "个",
+   "pinyin": "gè",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00060"
+  },
+  {
+   "officialSerial": 61,
+   "hanzi": "给",
+   "pinyin": "gěi",
+   "pos": "动、（介）",
+   "sourceNote": "（2）",
+   "sourcePage": 81,
+   "id": "HSK-V00061"
+  },
+  {
+   "officialSerial": 62,
+   "hanzi": "工作",
+   "pinyin": "gōngzuò",
+   "pos": "动、名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00062"
+  },
+  {
+   "officialSerial": 63,
+   "hanzi": "公司",
+   "pinyin": "gōngsī",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00063"
+  },
+  {
+   "officialSerial": 64,
+   "hanzi": "狗",
+   "pinyin": "gǒu",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00064"
+  },
+  {
+   "officialSerial": 65,
+   "hanzi": "贵",
+   "pinyin": "guì",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00065"
+  },
+  {
+   "officialSerial": 66,
+   "hanzi": "国",
+   "pinyin": "guó",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00066"
+  },
+  {
+   "officialSerial": 67,
+   "hanzi": "还",
+   "pinyin": "hái",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00067"
+  },
+  {
+   "officialSerial": 68,
+   "hanzi": "孩子",
+   "pinyin": "háizi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00068"
+  },
+  {
+   "officialSerial": 69,
+   "hanzi": "汉语",
+   "pinyin": "Hànyǔ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00069"
+  },
+  {
+   "officialSerial": 70,
+   "hanzi": "汉字",
+   "pinyin": "Hànzì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00070"
+  },
+  {
+   "officialSerial": 71,
+   "hanzi": "好",
+   "pinyin": "hǎo",
+   "pos": "形、（副）、（动）",
+   "sourceNote": "（2）（4）",
+   "sourcePage": 81,
+   "id": "HSK-V00071"
+  },
+  {
+   "officialSerial": 72,
+   "hanzi": "好吃",
+   "pinyin": "hǎochī",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00072"
+  },
+  {
+   "officialSerial": 73,
+   "hanzi": "好看",
+   "pinyin": "hǎokàn",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00073"
+  },
+  {
+   "officialSerial": 74,
+   "hanzi": "好听",
+   "pinyin": "hǎotīng",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00074"
+  },
+  {
+   "officialSerial": 75,
+   "hanzi": "好玩儿",
+   "pinyin": "hǎowánr",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00075"
+  },
+  {
+   "officialSerial": 76,
+   "hanzi": "号",
+   "pinyin": "hào",
+   "pos": "名、量",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00076"
+  },
+  {
+   "officialSerial": 77,
+   "hanzi": "喝",
+   "pinyin": "hē",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00077"
+  },
+  {
+   "officialSerial": 78,
+   "hanzi": "和",
+   "pinyin": "hé",
+   "pos": "介、连",
+   "sourceNote": "|омоним:1",
+   "sourcePage": 81,
+   "id": "HSK-V00078"
+  },
+  {
+   "officialSerial": 79,
+   "hanzi": "很",
+   "pinyin": "hěn",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00079"
+  },
+  {
+   "officialSerial": 80,
+   "hanzi": "后",
+   "pinyin": "hòu",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 81,
+   "id": "HSK-V00080"
+  },
+  {
+   "officialSerial": 81,
+   "hanzi": "回",
+   "pinyin": "huí",
+   "pos": "动、（量）",
+   "sourceNote": "（3）",
+   "sourcePage": 82,
+   "id": "HSK-V00081"
+  },
+  {
+   "officialSerial": 82,
+   "hanzi": "会",
+   "pinyin": "huì",
+   "pos": "动",
+   "sourceNote": "|омоним:1",
+   "sourcePage": 82,
+   "id": "HSK-V00082"
+  },
+  {
+   "officialSerial": 83,
+   "hanzi": "火车",
+   "pinyin": "huǒchē",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00083"
+  },
+  {
+   "officialSerial": 84,
+   "hanzi": "鸡蛋",
+   "pinyin": "jīdàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00084"
+  },
+  {
+   "officialSerial": 85,
+   "hanzi": "几",
+   "pinyin": "jǐ",
+   "pos": "代、数",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00085"
+  },
+  {
+   "officialSerial": 86,
+   "hanzi": "家",
+   "pinyin": "jiā",
+   "pos": "名、量、（后缀）",
+   "sourceNote": "（3）",
+   "sourcePage": 82,
+   "id": "HSK-V00086"
+  },
+  {
+   "officialSerial": 87,
+   "hanzi": "家人",
+   "pinyin": "jiārén",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00087"
+  },
+  {
+   "officialSerial": 88,
+   "hanzi": "见",
+   "pinyin": "jiàn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00088"
+  },
+  {
+   "officialSerial": 89,
+   "hanzi": "件",
+   "pinyin": "jiàn",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00089"
+  },
+  {
+   "officialSerial": 90,
+   "hanzi": "饺子",
+   "pinyin": "jiǎozi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00090"
+  },
+  {
+   "officialSerial": 91,
+   "hanzi": "叫",
+   "pinyin": "jiào",
+   "pos": "动、（介）",
+   "sourceNote": "（4）",
+   "sourcePage": 82,
+   "id": "HSK-V00091"
+  },
+  {
+   "officialSerial": 92,
+   "hanzi": "姐姐",
+   "pinyin": "jiějie",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00092"
+  },
+  {
+   "officialSerial": 93,
+   "hanzi": "今年",
+   "pinyin": "jīnnián",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00093"
+  },
+  {
+   "officialSerial": 94,
+   "hanzi": "今天",
+   "pinyin": "jīntiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00094"
+  },
+  {
+   "officialSerial": 95,
+   "hanzi": "九",
+   "pinyin": "jiǔ",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00095"
+  },
+  {
+   "officialSerial": 96,
+   "hanzi": "觉得",
+   "pinyin": "juéde",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00096"
+  },
+  {
+   "officialSerial": 97,
+   "hanzi": "开",
+   "pinyin": "kāi",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00097"
+  },
+  {
+   "officialSerial": 98,
+   "hanzi": "开车",
+   "pinyin": "kāichē",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00098"
+  },
+  {
+   "officialSerial": 99,
+   "hanzi": "看",
+   "pinyin": "kàn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00099"
+  },
+  {
+   "officialSerial": 100,
+   "hanzi": "看病",
+   "pinyin": "kànbìng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00100"
+  },
+  {
+   "officialSerial": 101,
+   "hanzi": "看见",
+   "pinyin": "kànjiàn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00101"
+  },
+  {
+   "officialSerial": 102,
+   "hanzi": "可以",
+   "pinyin": "kěyǐ",
+   "pos": "动、形",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00102"
+  },
+  {
+   "officialSerial": 103,
+   "hanzi": "课",
+   "pinyin": "kè",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00103"
+  },
+  {
+   "officialSerial": 104,
+   "hanzi": "口",
+   "pinyin": "kǒu",
+   "pos": "名、量",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00104"
+  },
+  {
+   "officialSerial": 105,
+   "hanzi": "块",
+   "pinyin": "kuài",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00105"
+  },
+  {
+   "officialSerial": 106,
+   "hanzi": "来",
+   "pinyin": "lái",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00106"
+  },
+  {
+   "officialSerial": 107,
+   "hanzi": "老师",
+   "pinyin": "lǎoshī",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00107"
+  },
+  {
+   "officialSerial": 108,
+   "hanzi": "了",
+   "pinyin": "le",
+   "pos": "助",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00108"
+  },
+  {
+   "officialSerial": 109,
+   "hanzi": "冷",
+   "pinyin": "lěng",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00109"
+  },
+  {
+   "officialSerial": 110,
+   "hanzi": "里",
+   "pinyin": "lǐ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00110"
+  },
+  {
+   "officialSerial": 111,
+   "hanzi": "两",
+   "pinyin": "liǎng",
+   "pos": "数",
+   "sourceNote": "|омоним:1",
+   "sourcePage": 82,
+   "id": "HSK-V00111"
+  },
+  {
+   "officialSerial": 112,
+   "hanzi": "零",
+   "pinyin": "líng",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00112"
+  },
+  {
+   "officialSerial": 113,
+   "hanzi": "六",
+   "pinyin": "liù",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00113"
+  },
+  {
+   "officialSerial": 114,
+   "hanzi": "妈妈",
+   "pinyin": "māma",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00114"
+  },
+  {
+   "officialSerial": 115,
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "pos": "助",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00115"
+  },
+  {
+   "officialSerial": 116,
+   "hanzi": "买",
+   "pinyin": "mǎi",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00116"
+  },
+  {
+   "officialSerial": 117,
+   "hanzi": "卖",
+   "pinyin": "mài",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00117"
+  },
+  {
+   "officialSerial": 118,
+   "hanzi": "忙",
+   "pinyin": "máng",
+   "pos": "形、动",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00118"
+  },
+  {
+   "officialSerial": 119,
+   "hanzi": "猫",
+   "pinyin": "māo",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00119"
+  },
+  {
+   "officialSerial": 120,
+   "hanzi": "没关系",
+   "pinyin": "méi guānxi",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 82,
+   "id": "HSK-V00120"
+  },
+  {
+   "officialSerial": 121,
+   "hanzi": "没事",
+   "pinyin": "méishì",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00121"
+  },
+  {
+   "officialSerial": 122,
+   "hanzi": "没有",
+   "pinyin": "méiyǒu",
+   "pos": "动、副",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00122"
+  },
+  {
+   "officialSerial": 123,
+   "hanzi": "妹妹",
+   "pinyin": "mèimei",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00123"
+  },
+  {
+   "officialSerial": 124,
+   "hanzi": "们",
+   "pinyin": "men",
+   "pos": "后缀",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00124"
+  },
+  {
+   "officialSerial": 125,
+   "hanzi": "米饭",
+   "pinyin": "mǐfàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00125"
+  },
+  {
+   "officialSerial": 126,
+   "hanzi": "面包",
+   "pinyin": "miànbāo",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00126"
+  },
+  {
+   "officialSerial": 127,
+   "hanzi": "面条儿",
+   "pinyin": "miàntiáor",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00127"
+  },
+  {
+   "officialSerial": 128,
+   "hanzi": "名字",
+   "pinyin": "míngzi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00128"
+  },
+  {
+   "officialSerial": 129,
+   "hanzi": "明年",
+   "pinyin": "míngnián",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00129"
+  },
+  {
+   "officialSerial": 130,
+   "hanzi": "明天",
+   "pinyin": "míngtiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00130"
+  },
+  {
+   "officialSerial": 131,
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00131"
+  },
+  {
+   "officialSerial": 132,
+   "hanzi": "哪个",
+   "pinyin": "nǎge",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00132"
+  },
+  {
+   "officialSerial": 133,
+   "hanzi": "哪里",
+   "pinyin": "nǎlǐ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00133"
+  },
+  {
+   "officialSerial": 134,
+   "hanzi": "哪儿",
+   "pinyin": "nǎr",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00134"
+  },
+  {
+   "officialSerial": 135,
+   "hanzi": "哪些",
+   "pinyin": "nǎxiē",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00135"
+  },
+  {
+   "officialSerial": 136,
+   "hanzi": "那",
+   "pinyin": "nà",
+   "pos": "代、（连）",
+   "sourceNote": "（2）",
+   "sourcePage": 83,
+   "id": "HSK-V00136"
+  },
+  {
+   "officialSerial": 137,
+   "hanzi": "那边",
+   "pinyin": "nàbiān",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00137"
+  },
+  {
+   "officialSerial": 138,
+   "hanzi": "那个",
+   "pinyin": "nàge",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00138"
+  },
+  {
+   "officialSerial": 139,
+   "hanzi": "那里",
+   "pinyin": "nàlǐ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00139"
+  },
+  {
+   "officialSerial": 140,
+   "hanzi": "那儿",
+   "pinyin": "nàr",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00140"
+  },
+  {
+   "officialSerial": 141,
+   "hanzi": "那些",
+   "pinyin": "nàxiē",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00141"
+  },
+  {
+   "officialSerial": 142,
+   "hanzi": "男",
+   "pinyin": "nán",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00142"
+  },
+  {
+   "officialSerial": 143,
+   "hanzi": "男朋友",
+   "pinyin": "nánpéngyou",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00143"
+  },
+  {
+   "officialSerial": 144,
+   "hanzi": "呢",
+   "pinyin": "ne",
+   "pos": "助",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00144"
+  },
+  {
+   "officialSerial": 145,
+   "hanzi": "能",
+   "pinyin": "néng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00145"
+  },
+  {
+   "officialSerial": 146,
+   "hanzi": "你",
+   "pinyin": "nǐ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00146"
+  },
+  {
+   "officialSerial": 147,
+   "hanzi": "你好",
+   "pinyin": "nǐ hǎo",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00147"
+  },
+  {
+   "officialSerial": 148,
+   "hanzi": "你们",
+   "pinyin": "nǐmen",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00148"
+  },
+  {
+   "officialSerial": 149,
+   "hanzi": "年",
+   "pinyin": "nián",
+   "pos": "名、量",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00149"
+  },
+  {
+   "officialSerial": 150,
+   "hanzi": "您",
+   "pinyin": "nín",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00150"
+  },
+  {
+   "officialSerial": 151,
+   "hanzi": "牛奶",
+   "pinyin": "niúnǎi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00151"
+  },
+  {
+   "officialSerial": 152,
+   "hanzi": "女",
+   "pinyin": "nǚ",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00152"
+  },
+  {
+   "officialSerial": 153,
+   "hanzi": "女儿",
+   "pinyin": "nǚ’ér",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00153"
+  },
+  {
+   "officialSerial": 154,
+   "hanzi": "女朋友",
+   "pinyin": "nǚpéngyou",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00154"
+  },
+  {
+   "officialSerial": 155,
+   "hanzi": "女士",
+   "pinyin": "nǚshì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00155"
+  },
+  {
+   "officialSerial": 156,
+   "hanzi": "朋友",
+   "pinyin": "péngyou",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00156"
+  },
+  {
+   "officialSerial": 157,
+   "hanzi": "便宜",
+   "pinyin": "piányi",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00157"
+  },
+  {
+   "officialSerial": 158,
+   "hanzi": "漂亮",
+   "pinyin": "piàoliang",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00158"
+  },
+  {
+   "officialSerial": 159,
+   "hanzi": "苹果",
+   "pinyin": "píngguǒ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00159"
+  },
+  {
+   "officialSerial": 160,
+   "hanzi": "七",
+   "pinyin": "qī",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 83,
+   "id": "HSK-V00160"
+  },
+  {
+   "officialSerial": 161,
+   "hanzi": "起床",
+   "pinyin": "qǐchuáng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00161"
+  },
+  {
+   "officialSerial": 162,
+   "hanzi": "千",
+   "pinyin": "qiān",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00162"
+  },
+  {
+   "officialSerial": 163,
+   "hanzi": "前",
+   "pinyin": "qián",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00163"
+  },
+  {
+   "officialSerial": 164,
+   "hanzi": "钱",
+   "pinyin": "qián",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00164"
+  },
+  {
+   "officialSerial": 165,
+   "hanzi": "请",
+   "pinyin": "qǐng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00165"
+  },
+  {
+   "officialSerial": 166,
+   "hanzi": "请问",
+   "pinyin": "qǐngwèn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00166"
+  },
+  {
+   "officialSerial": 167,
+   "hanzi": "去",
+   "pinyin": "qù",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00167"
+  },
+  {
+   "officialSerial": 168,
+   "hanzi": "去年",
+   "pinyin": "qùnián",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00168"
+  },
+  {
+   "officialSerial": 169,
+   "hanzi": "热",
+   "pinyin": "rè",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00169"
+  },
+  {
+   "officialSerial": 170,
+   "hanzi": "人",
+   "pinyin": "rén",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00170"
+  },
+  {
+   "officialSerial": 171,
+   "hanzi": "认识",
+   "pinyin": "rènshi",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00171"
+  },
+  {
+   "officialSerial": 172,
+   "hanzi": "日",
+   "pinyin": "rì",
+   "pos": "量、（名）",
+   "sourceNote": "（4）",
+   "sourcePage": 84,
+   "id": "HSK-V00172"
+  },
+  {
+   "officialSerial": 173,
+   "hanzi": "三",
+   "pinyin": "sān",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00173"
+  },
+  {
+   "officialSerial": 174,
+   "hanzi": "商店",
+   "pinyin": "shāngdiàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00174"
+  },
+  {
+   "officialSerial": 175,
+   "hanzi": "上",
+   "pinyin": "shàng",
+   "pos": "名、动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00175"
+  },
+  {
+   "officialSerial": 176,
+   "hanzi": "上班",
+   "pinyin": "shàngbān",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00176"
+  },
+  {
+   "officialSerial": 177,
+   "hanzi": "上课",
+   "pinyin": "shàngkè",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00177"
+  },
+  {
+   "officialSerial": 178,
+   "hanzi": "上午",
+   "pinyin": "shàngwǔ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00178"
+  },
+  {
+   "officialSerial": 179,
+   "hanzi": "上学",
+   "pinyin": "shàngxué",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00179"
+  },
+  {
+   "officialSerial": 180,
+   "hanzi": "少",
+   "pinyin": "shǎo",
+   "pos": "形、动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00180"
+  },
+  {
+   "officialSerial": 181,
+   "hanzi": "谁",
+   "pinyin": "shéi/shuí",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00181"
+  },
+  {
+   "officialSerial": 182,
+   "hanzi": "什么",
+   "pinyin": "shénme",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00182"
+  },
+  {
+   "officialSerial": 183,
+   "hanzi": "生病",
+   "pinyin": "shēngbìng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00183"
+  },
+  {
+   "officialSerial": 184,
+   "hanzi": "十",
+   "pinyin": "shí",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00184"
+  },
+  {
+   "officialSerial": 185,
+   "hanzi": "时候",
+   "pinyin": "shíhou",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00185"
+  },
+  {
+   "officialSerial": 186,
+   "hanzi": "时间",
+   "pinyin": "shíjiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00186"
+  },
+  {
+   "officialSerial": 187,
+   "hanzi": "事",
+   "pinyin": "shì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00187"
+  },
+  {
+   "officialSerial": 188,
+   "hanzi": "是",
+   "pinyin": "shì",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00188"
+  },
+  {
+   "officialSerial": 189,
+   "hanzi": "手机",
+   "pinyin": "shǒujī",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00189"
+  },
+  {
+   "officialSerial": 190,
+   "hanzi": "书",
+   "pinyin": "shū",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00190"
+  },
+  {
+   "officialSerial": 191,
+   "hanzi": "书店",
+   "pinyin": "shūdiàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00191"
+  },
+  {
+   "officialSerial": 192,
+   "hanzi": "水",
+   "pinyin": "shuǐ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00192"
+  },
+  {
+   "officialSerial": 193,
+   "hanzi": "水果",
+   "pinyin": "shuǐguǒ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00193"
+  },
+  {
+   "officialSerial": 194,
+   "hanzi": "睡",
+   "pinyin": "shuì",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00194"
+  },
+  {
+   "officialSerial": 195,
+   "hanzi": "睡觉",
+   "pinyin": "shuìjiào",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00195"
+  },
+  {
+   "officialSerial": 196,
+   "hanzi": "说",
+   "pinyin": "shuō",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00196"
+  },
+  {
+   "officialSerial": 197,
+   "hanzi": "说话",
+   "pinyin": "shuōhuà",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00197"
+  },
+  {
+   "officialSerial": 198,
+   "hanzi": "四",
+   "pinyin": "sì",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00198"
+  },
+  {
+   "officialSerial": 199,
+   "hanzi": "岁",
+   "pinyin": "suì",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00199"
+  },
+  {
+   "officialSerial": 200,
+   "hanzi": "他",
+   "pinyin": "tā",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 84,
+   "id": "HSK-V00200"
+  },
+  {
+   "officialSerial": 201,
+   "hanzi": "他们",
+   "pinyin": "tāmen",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00201"
+  },
+  {
+   "officialSerial": 202,
+   "hanzi": "它",
+   "pinyin": "tā",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00202"
+  },
+  {
+   "officialSerial": 203,
+   "hanzi": "它们",
+   "pinyin": "tāmen",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00203"
+  },
+  {
+   "officialSerial": 204,
+   "hanzi": "她",
+   "pinyin": "tā",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00204"
+  },
+  {
+   "officialSerial": 205,
+   "hanzi": "她们",
+   "pinyin": "tāmen",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00205"
+  },
+  {
+   "officialSerial": 206,
+   "hanzi": "太",
+   "pinyin": "tài",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00206"
+  },
+  {
+   "officialSerial": 207,
+   "hanzi": "天",
+   "pinyin": "tiān",
+   "pos": "名、量",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00207"
+  },
+  {
+   "officialSerial": 208,
+   "hanzi": "天气",
+   "pinyin": "tiānqì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00208"
+  },
+  {
+   "officialSerial": 209,
+   "hanzi": "听",
+   "pinyin": "tīng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00209"
+  },
+  {
+   "officialSerial": 210,
+   "hanzi": "听见",
+   "pinyin": "tīngjiàn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00210"
+  },
+  {
+   "officialSerial": 211,
+   "hanzi": "同学",
+   "pinyin": "tóngxué",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00211"
+  },
+  {
+   "officialSerial": 212,
+   "hanzi": "外",
+   "pinyin": "wài",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00212"
+  },
+  {
+   "officialSerial": 213,
+   "hanzi": "外边",
+   "pinyin": "wàibian",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00213"
+  },
+  {
+   "officialSerial": 214,
+   "hanzi": "玩",
+   "pinyin": "wán",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00214"
+  },
+  {
+   "officialSerial": 215,
+   "hanzi": "晚",
+   "pinyin": "wǎn",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00215"
+  },
+  {
+   "officialSerial": 216,
+   "hanzi": "晚饭",
+   "pinyin": "wǎnfàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00216"
+  },
+  {
+   "officialSerial": 217,
+   "hanzi": "晚上",
+   "pinyin": "wǎnshang",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00217"
+  },
+  {
+   "officialSerial": 218,
+   "hanzi": "喂",
+   "pinyin": "wèi",
+   "pos": "叹",
+   "sourceNote": "|омоним:1",
+   "sourcePage": 85,
+   "id": "HSK-V00218"
+  },
+  {
+   "officialSerial": 219,
+   "hanzi": "问",
+   "pinyin": "wèn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00219"
+  },
+  {
+   "officialSerial": 220,
+   "hanzi": "问题",
+   "pinyin": "wèntí",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00220"
+  },
+  {
+   "officialSerial": 221,
+   "hanzi": "我",
+   "pinyin": "wǒ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00221"
+  },
+  {
+   "officialSerial": 222,
+   "hanzi": "我们",
+   "pinyin": "wǒmen",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00222"
+  },
+  {
+   "officialSerial": 223,
+   "hanzi": "五",
+   "pinyin": "wǔ",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00223"
+  },
+  {
+   "officialSerial": 224,
+   "hanzi": "午饭",
+   "pinyin": "wǔfàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00224"
+  },
+  {
+   "officialSerial": 225,
+   "hanzi": "喜欢",
+   "pinyin": "xǐhuan",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00225"
+  },
+  {
+   "officialSerial": 226,
+   "hanzi": "下",
+   "pinyin": "xià",
+   "pos": "名、动、量",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00226"
+  },
+  {
+   "officialSerial": 227,
+   "hanzi": "下班",
+   "pinyin": "xiàbān",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00227"
+  },
+  {
+   "officialSerial": 228,
+   "hanzi": "下课",
+   "pinyin": "xiàkè",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00228"
+  },
+  {
+   "officialSerial": 229,
+   "hanzi": "下午",
+   "pinyin": "xiàwǔ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00229"
+  },
+  {
+   "officialSerial": 230,
+   "hanzi": "下雨",
+   "pinyin": "xià yǔ",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00230"
+  },
+  {
+   "officialSerial": 231,
+   "hanzi": "先生",
+   "pinyin": "xiānsheng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00231"
+  },
+  {
+   "officialSerial": 232,
+   "hanzi": "现在",
+   "pinyin": "xiànzài",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00232"
+  },
+  {
+   "officialSerial": 233,
+   "hanzi": "想",
+   "pinyin": "xiǎng",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00233"
+  },
+  {
+   "officialSerial": 234,
+   "hanzi": "小",
+   "pinyin": "xiǎo",
+   "pos": "形、前缀",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00234"
+  },
+  {
+   "officialSerial": 235,
+   "hanzi": "小朋友",
+   "pinyin": "xiǎopéngyǒu",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00235"
+  },
+  {
+   "officialSerial": 236,
+   "hanzi": "小时",
+   "pinyin": "xiǎoshí",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00236"
+  },
+  {
+   "officialSerial": 237,
+   "hanzi": "小学",
+   "pinyin": "xiǎoxué",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00237"
+  },
+  {
+   "officialSerial": 238,
+   "hanzi": "小学生",
+   "pinyin": "xiǎoxuéshēng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00238"
+  },
+  {
+   "officialSerial": 239,
+   "hanzi": "些",
+   "pinyin": "xiē",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00239"
+  },
+  {
+   "officialSerial": 240,
+   "hanzi": "写",
+   "pinyin": "xiě",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 85,
+   "id": "HSK-V00240"
+  },
+  {
+   "officialSerial": 241,
+   "hanzi": "谢谢",
+   "pinyin": "xièxie",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00241"
+  },
+  {
+   "officialSerial": 242,
+   "hanzi": "新",
+   "pinyin": "xīn",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00242"
+  },
+  {
+   "officialSerial": 243,
+   "hanzi": "星期",
+   "pinyin": "xīngqī",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00243"
+  },
+  {
+   "officialSerial": 244,
+   "hanzi": "星期日",
+   "pinyin": "xīngqīrì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00244"
+  },
+  {
+   "officialSerial": 245,
+   "hanzi": "星期天",
+   "pinyin": "xīngqītiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00245"
+  },
+  {
+   "officialSerial": 246,
+   "hanzi": "休息",
+   "pinyin": "xiūxi",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00246"
+  },
+  {
+   "officialSerial": 247,
+   "hanzi": "学",
+   "pinyin": "xué",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00247"
+  },
+  {
+   "officialSerial": 248,
+   "hanzi": "学生",
+   "pinyin": "xuéshēng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00248"
+  },
+  {
+   "officialSerial": 249,
+   "hanzi": "学习",
+   "pinyin": "xuéxí",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00249"
+  },
+  {
+   "officialSerial": 250,
+   "hanzi": "学校",
+   "pinyin": "xuéxiào",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00250"
+  },
+  {
+   "officialSerial": 251,
+   "hanzi": "雪",
+   "pinyin": "xuě",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00251"
+  },
+  {
+   "officialSerial": 252,
+   "hanzi": "要",
+   "pinyin": "yào",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00252"
+  },
+  {
+   "officialSerial": 253,
+   "hanzi": "也",
+   "pinyin": "yě",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00253"
+  },
+  {
+   "officialSerial": 254,
+   "hanzi": "一",
+   "pinyin": "yī",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00254"
+  },
+  {
+   "officialSerial": 255,
+   "hanzi": "一半",
+   "pinyin": "yíbàn",
+   "pos": "数",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00255"
+  },
+  {
+   "officialSerial": 256,
+   "hanzi": "一点儿",
+   "pinyin": "yìdiǎnr",
+   "pos": "数量",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00256"
+  },
+  {
+   "officialSerial": 257,
+   "hanzi": "一下",
+   "pinyin": "yíxià",
+   "pos": "数量、（副）",
+   "sourceNote": "（4）",
+   "sourcePage": 86,
+   "id": "HSK-V00257"
+  },
+  {
+   "officialSerial": 258,
+   "hanzi": "一些",
+   "pinyin": "yìxiē",
+   "pos": "数量",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00258"
+  },
+  {
+   "officialSerial": 259,
+   "hanzi": "衣服",
+   "pinyin": "yīfu",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00259"
+  },
+  {
+   "officialSerial": 260,
+   "hanzi": "医生",
+   "pinyin": "yīshēng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00260"
+  },
+  {
+   "officialSerial": 261,
+   "hanzi": "医院",
+   "pinyin": "yīyuàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00261"
+  },
+  {
+   "officialSerial": 262,
+   "hanzi": "椅子",
+   "pinyin": "yǐzi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00262"
+  },
+  {
+   "officialSerial": 263,
+   "hanzi": "有",
+   "pinyin": "yǒu",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00263"
+  },
+  {
+   "officialSerial": 264,
+   "hanzi": "有的",
+   "pinyin": "yǒude",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00264"
+  },
+  {
+   "officialSerial": 265,
+   "hanzi": "有点儿",
+   "pinyin": "yǒudiǎnr",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00265"
+  },
+  {
+   "officialSerial": 266,
+   "hanzi": "有些",
+   "pinyin": "yǒuxiē",
+   "pos": "代、（副）",
+   "sourceNote": "（3）",
+   "sourcePage": 86,
+   "id": "HSK-V00266"
+  },
+  {
+   "officialSerial": 267,
+   "hanzi": "雨",
+   "pinyin": "yǔ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00267"
+  },
+  {
+   "officialSerial": 268,
+   "hanzi": "元",
+   "pinyin": "yuán",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00268"
+  },
+  {
+   "officialSerial": 269,
+   "hanzi": "月",
+   "pinyin": "yuè",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00269"
+  },
+  {
+   "officialSerial": 270,
+   "hanzi": "再",
+   "pinyin": "zài",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00270"
+  },
+  {
+   "officialSerial": 271,
+   "hanzi": "再见",
+   "pinyin": "zàijiàn",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00271"
+  },
+  {
+   "officialSerial": 272,
+   "hanzi": "在",
+   "pinyin": "zài",
+   "pos": "动、介、副",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00272"
+  },
+  {
+   "officialSerial": 273,
+   "hanzi": "早",
+   "pinyin": "zǎo",
+   "pos": "形",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00273"
+  },
+  {
+   "officialSerial": 274,
+   "hanzi": "早饭",
+   "pinyin": "zǎofàn",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00274"
+  },
+  {
+   "officialSerial": 275,
+   "hanzi": "早上",
+   "pinyin": "zǎoshang",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00275"
+  },
+  {
+   "officialSerial": 276,
+   "hanzi": "怎么",
+   "pinyin": "zěnme",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00276"
+  },
+  {
+   "officialSerial": 277,
+   "hanzi": "怎么样",
+   "pinyin": "zěnmeyàng",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00277"
+  },
+  {
+   "officialSerial": 278,
+   "hanzi": "找",
+   "pinyin": "zhǎo",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00278"
+  },
+  {
+   "officialSerial": 279,
+   "hanzi": "这",
+   "pinyin": "zhè",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00279"
+  },
+  {
+   "officialSerial": 280,
+   "hanzi": "这边",
+   "pinyin": "zhèbiān",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 86,
+   "id": "HSK-V00280"
+  },
+  {
+   "officialSerial": 281,
+   "hanzi": "这个",
+   "pinyin": "zhège",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00281"
+  },
+  {
+   "officialSerial": 282,
+   "hanzi": "这里",
+   "pinyin": "zhèlǐ",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00282"
+  },
+  {
+   "officialSerial": 283,
+   "hanzi": "这儿",
+   "pinyin": "zhèr",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00283"
+  },
+  {
+   "officialSerial": 284,
+   "hanzi": "这些",
+   "pinyin": "zhèxiē",
+   "pos": "代",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00284"
+  },
+  {
+   "officialSerial": 285,
+   "hanzi": "真",
+   "pinyin": "zhēn",
+   "pos": "副、（形）",
+   "sourceNote": "（4）",
+   "sourcePage": 87,
+   "id": "HSK-V00285"
+  },
+  {
+   "officialSerial": 286,
+   "hanzi": "正在",
+   "pinyin": "zhèngzài",
+   "pos": "副",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00286"
+  },
+  {
+   "officialSerial": 287,
+   "hanzi": "只",
+   "pinyin": "zhī",
+   "pos": "量",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00287"
+  },
+  {
+   "officialSerial": 288,
+   "hanzi": "知道",
+   "pinyin": "zhīdào",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00288"
+  },
+  {
+   "officialSerial": 289,
+   "hanzi": "中国",
+   "pinyin": "Zhōngguó",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00289"
+  },
+  {
+   "officialSerial": 290,
+   "hanzi": "中文",
+   "pinyin": "Zhōngwén",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00290"
+  },
+  {
+   "officialSerial": 291,
+   "hanzi": "中午",
+   "pinyin": "zhōngwǔ",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00291"
+  },
+  {
+   "officialSerial": 292,
+   "hanzi": "中学",
+   "pinyin": "zhōngxué",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00292"
+  },
+  {
+   "officialSerial": 293,
+   "hanzi": "中学生",
+   "pinyin": "zhōngxuéshēng",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00293"
+  },
+  {
+   "officialSerial": 294,
+   "hanzi": "住",
+   "pinyin": "zhù",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00294"
+  },
+  {
+   "officialSerial": 295,
+   "hanzi": "桌子",
+   "pinyin": "zhuōzi",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00295"
+  },
+  {
+   "officialSerial": 296,
+   "hanzi": "字",
+   "pinyin": "zì",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00296"
+  },
+  {
+   "officialSerial": 297,
+   "hanzi": "昨天",
+   "pinyin": "zuótiān",
+   "pos": "名",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00297"
+  },
+  {
+   "officialSerial": 298,
+   "hanzi": "坐",
+   "pinyin": "zuò",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00298"
+  },
+  {
+   "officialSerial": 299,
+   "hanzi": "做",
+   "pinyin": "zuò",
+   "pos": "动",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00299"
+  },
+  {
+   "officialSerial": 300,
+   "hanzi": "做饭",
+   "pinyin": "zuò fàn",
+   "pos": "",
+   "sourceNote": "",
+   "sourcePage": 87,
+   "id": "HSK-V00300"
+  }
+ ],
+ "charactersRecognition": [
+  {
+   "officialSerial": 1,
+   "char": "爱",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0001"
+  },
+  {
+   "officialSerial": 2,
+   "char": "八",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0002"
+  },
+  {
+   "officialSerial": 3,
+   "char": "爸",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0003"
+  },
+  {
+   "officialSerial": 4,
+   "char": "吧",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0004"
+  },
+  {
+   "officialSerial": 5,
+   "char": "白",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0005"
+  },
+  {
+   "officialSerial": 6,
+   "char": "百",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0006"
+  },
+  {
+   "officialSerial": 7,
+   "char": "班",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0007"
+  },
+  {
+   "officialSerial": 8,
+   "char": "半",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0008"
+  },
+  {
+   "officialSerial": 9,
+   "char": "包",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0009"
+  },
+  {
+   "officialSerial": 10,
+   "char": "杯",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0010"
+  },
+  {
+   "officialSerial": 11,
+   "char": "本",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0011"
+  },
+  {
+   "officialSerial": 12,
+   "char": "边",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0012"
+  },
+  {
+   "officialSerial": 13,
+   "char": "便",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0013"
+  },
+  {
+   "officialSerial": 14,
+   "char": "病",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0014"
+  },
+  {
+   "officialSerial": 15,
+   "char": "不",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0015"
+  },
+  {
+   "officialSerial": 16,
+   "char": "菜",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0016"
+  },
+  {
+   "officialSerial": 17,
+   "char": "茶",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0017"
+  },
+  {
+   "officialSerial": 18,
+   "char": "常",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0018"
+  },
+  {
+   "officialSerial": 19,
+   "char": "唱",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0019"
+  },
+  {
+   "officialSerial": 20,
+   "char": "超",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0020"
+  },
+  {
+   "officialSerial": 21,
+   "char": "车",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0021"
+  },
+  {
+   "officialSerial": 22,
+   "char": "吃",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0022"
+  },
+  {
+   "officialSerial": 23,
+   "char": "出",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0023"
+  },
+  {
+   "officialSerial": 24,
+   "char": "穿",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0024"
+  },
+  {
+   "officialSerial": 25,
+   "char": "床",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0025"
+  },
+  {
+   "officialSerial": 26,
+   "char": "打",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0026"
+  },
+  {
+   "officialSerial": 27,
+   "char": "大",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0027"
+  },
+  {
+   "officialSerial": 28,
+   "char": "蛋",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0028"
+  },
+  {
+   "officialSerial": 29,
+   "char": "到",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0029"
+  },
+  {
+   "officialSerial": 30,
+   "char": "道",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0030"
+  },
+  {
+   "officialSerial": 31,
+   "char": "得",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0031"
+  },
+  {
+   "officialSerial": 32,
+   "char": "的",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0032"
+  },
+  {
+   "officialSerial": 33,
+   "char": "弟",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0033"
+  },
+  {
+   "officialSerial": 34,
+   "char": "第",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0034"
+  },
+  {
+   "officialSerial": 35,
+   "char": "点",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0035"
+  },
+  {
+   "officialSerial": 36,
+   "char": "电",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0036"
+  },
+  {
+   "officialSerial": 37,
+   "char": "东",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0037"
+  },
+  {
+   "officialSerial": 38,
+   "char": "都",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0038"
+  },
+  {
+   "officialSerial": 39,
+   "char": "读",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0039"
+  },
+  {
+   "officialSerial": 40,
+   "char": "对",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0040"
+  },
+  {
+   "officialSerial": 41,
+   "char": "多",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0041"
+  },
+  {
+   "officialSerial": 42,
+   "char": "儿",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0042"
+  },
+  {
+   "officialSerial": 43,
+   "char": "二",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0043"
+  },
+  {
+   "officialSerial": 44,
+   "char": "饭",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0044"
+  },
+  {
+   "officialSerial": 45,
+   "char": "房",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0045"
+  },
+  {
+   "officialSerial": 46,
+   "char": "飞",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0046"
+  },
+  {
+   "officialSerial": 47,
+   "char": "非",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0047"
+  },
+  {
+   "officialSerial": 48,
+   "char": "分",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0048"
+  },
+  {
+   "officialSerial": 49,
+   "char": "服",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0049"
+  },
+  {
+   "officialSerial": 50,
+   "char": "高",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0050"
+  },
+  {
+   "officialSerial": 51,
+   "char": "哥",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0051"
+  },
+  {
+   "officialSerial": 52,
+   "char": "歌",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0052"
+  },
+  {
+   "officialSerial": 53,
+   "char": "个",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0053"
+  },
+  {
+   "officialSerial": 54,
+   "char": "给",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0054"
+  },
+  {
+   "officialSerial": 55,
+   "char": "工",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0055"
+  },
+  {
+   "officialSerial": 56,
+   "char": "公",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0056"
+  },
+  {
+   "officialSerial": 57,
+   "char": "狗",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0057"
+  },
+  {
+   "officialSerial": 58,
+   "char": "关",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0058"
+  },
+  {
+   "officialSerial": 59,
+   "char": "贵",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0059"
+  },
+  {
+   "officialSerial": 60,
+   "char": "国",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0060"
+  },
+  {
+   "officialSerial": 61,
+   "char": "果",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0061"
+  },
+  {
+   "officialSerial": 62,
+   "char": "还",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0062"
+  },
+  {
+   "officialSerial": 63,
+   "char": "孩",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0063"
+  },
+  {
+   "officialSerial": 64,
+   "char": "汉",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0064"
+  },
+  {
+   "officialSerial": 65,
+   "char": "好",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0065"
+  },
+  {
+   "officialSerial": 66,
+   "char": "号",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0066"
+  },
+  {
+   "officialSerial": 67,
+   "char": "喝",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0067"
+  },
+  {
+   "officialSerial": 68,
+   "char": "和",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0068"
+  },
+  {
+   "officialSerial": 69,
+   "char": "很",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0069"
+  },
+  {
+   "officialSerial": 70,
+   "char": "后",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0070"
+  },
+  {
+   "officialSerial": 71,
+   "char": "候",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0071"
+  },
+  {
+   "officialSerial": 72,
+   "char": "话",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0072"
+  },
+  {
+   "officialSerial": 73,
+   "char": "欢",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0073"
+  },
+  {
+   "officialSerial": 74,
+   "char": "回",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0074"
+  },
+  {
+   "officialSerial": 75,
+   "char": "会",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0075"
+  },
+  {
+   "officialSerial": 76,
+   "char": "火",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0076"
+  },
+  {
+   "officialSerial": 77,
+   "char": "机",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0077"
+  },
+  {
+   "officialSerial": 78,
+   "char": "鸡",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0078"
+  },
+  {
+   "officialSerial": 79,
+   "char": "几",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0079"
+  },
+  {
+   "officialSerial": 80,
+   "char": "家",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0080"
+  },
+  {
+   "officialSerial": 81,
+   "char": "间",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0081"
+  },
+  {
+   "officialSerial": 82,
+   "char": "见",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0082"
+  },
+  {
+   "officialSerial": 83,
+   "char": "件",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0083"
+  },
+  {
+   "officialSerial": 84,
+   "char": "叫",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0084"
+  },
+  {
+   "officialSerial": 85,
+   "char": "姐",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0085"
+  },
+  {
+   "officialSerial": 86,
+   "char": "今",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0086"
+  },
+  {
+   "officialSerial": 87,
+   "char": "九",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0087"
+  },
+  {
+   "officialSerial": 88,
+   "char": "觉",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0088"
+  },
+  {
+   "officialSerial": 89,
+   "char": "开",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0089"
+  },
+  {
+   "officialSerial": 90,
+   "char": "看",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0090"
+  },
+  {
+   "officialSerial": 91,
+   "char": "可",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0091"
+  },
+  {
+   "officialSerial": 92,
+   "char": "客",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0092"
+  },
+  {
+   "officialSerial": 93,
+   "char": "课",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0093"
+  },
+  {
+   "officialSerial": 94,
+   "char": "口",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0094"
+  },
+  {
+   "officialSerial": 95,
+   "char": "块",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0095"
+  },
+  {
+   "officialSerial": 96,
+   "char": "来",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0096"
+  },
+  {
+   "officialSerial": 97,
+   "char": "老",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0097"
+  },
+  {
+   "officialSerial": 98,
+   "char": "了",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0098"
+  },
+  {
+   "officialSerial": 99,
+   "char": "冷",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0099"
+  },
+  {
+   "officialSerial": 100,
+   "char": "里",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0100"
+  },
+  {
+   "officialSerial": 101,
+   "char": "两",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0101"
+  },
+  {
+   "officialSerial": 102,
+   "char": "亮",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0102"
+  },
+  {
+   "officialSerial": 103,
+   "char": "零",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0103"
+  },
+  {
+   "officialSerial": 104,
+   "char": "六",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0104"
+  },
+  {
+   "officialSerial": 105,
+   "char": "妈",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0105"
+  },
+  {
+   "officialSerial": 106,
+   "char": "吗",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0106"
+  },
+  {
+   "officialSerial": 107,
+   "char": "买",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0107"
+  },
+  {
+   "officialSerial": 108,
+   "char": "卖",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0108"
+  },
+  {
+   "officialSerial": 109,
+   "char": "忙",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0109"
+  },
+  {
+   "officialSerial": 110,
+   "char": "猫",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0110"
+  },
+  {
+   "officialSerial": 111,
+   "char": "么",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0111"
+  },
+  {
+   "officialSerial": 112,
+   "char": "没",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0112"
+  },
+  {
+   "officialSerial": 113,
+   "char": "妹",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0113"
+  },
+  {
+   "officialSerial": 114,
+   "char": "们",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0114"
+  },
+  {
+   "officialSerial": 115,
+   "char": "米",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0115"
+  },
+  {
+   "officialSerial": 116,
+   "char": "面",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0116"
+  },
+  {
+   "officialSerial": 117,
+   "char": "名",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0117"
+  },
+  {
+   "officialSerial": 118,
+   "char": "明",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0118"
+  },
+  {
+   "officialSerial": 119,
+   "char": "哪",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0119"
+  },
+  {
+   "officialSerial": 120,
+   "char": "那",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0120"
+  },
+  {
+   "officialSerial": 121,
+   "char": "奶",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0121"
+  },
+  {
+   "officialSerial": 122,
+   "char": "男",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0122"
+  },
+  {
+   "officialSerial": 123,
+   "char": "脑",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0123"
+  },
+  {
+   "officialSerial": 124,
+   "char": "呢",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0124"
+  },
+  {
+   "officialSerial": 125,
+   "char": "能",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0125"
+  },
+  {
+   "officialSerial": 126,
+   "char": "你",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0126"
+  },
+  {
+   "officialSerial": 127,
+   "char": "年",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0127"
+  },
+  {
+   "officialSerial": 128,
+   "char": "您",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0128"
+  },
+  {
+   "officialSerial": 129,
+   "char": "牛",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0129"
+  },
+  {
+   "officialSerial": 130,
+   "char": "女",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0130"
+  },
+  {
+   "officialSerial": 131,
+   "char": "朋",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0131"
+  },
+  {
+   "officialSerial": 132,
+   "char": "漂",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0132"
+  },
+  {
+   "officialSerial": 133,
+   "char": "苹",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0133"
+  },
+  {
+   "officialSerial": 134,
+   "char": "七",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0134"
+  },
+  {
+   "officialSerial": 135,
+   "char": "期",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0135"
+  },
+  {
+   "officialSerial": 136,
+   "char": "起",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0136"
+  },
+  {
+   "officialSerial": 137,
+   "char": "气",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0137"
+  },
+  {
+   "officialSerial": 138,
+   "char": "千",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0138"
+  },
+  {
+   "officialSerial": 139,
+   "char": "前",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0139"
+  },
+  {
+   "officialSerial": 140,
+   "char": "钱",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0140"
+  },
+  {
+   "officialSerial": 141,
+   "char": "请",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0141"
+  },
+  {
+   "officialSerial": 142,
+   "char": "去",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0142"
+  },
+  {
+   "officialSerial": 143,
+   "char": "热",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0143"
+  },
+  {
+   "officialSerial": 144,
+   "char": "人",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0144"
+  },
+  {
+   "officialSerial": 145,
+   "char": "认",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0145"
+  },
+  {
+   "officialSerial": 146,
+   "char": "日",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0146"
+  },
+  {
+   "officialSerial": 147,
+   "char": "三",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0147"
+  },
+  {
+   "officialSerial": 148,
+   "char": "商",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0148"
+  },
+  {
+   "officialSerial": 149,
+   "char": "上",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0149"
+  },
+  {
+   "officialSerial": 150,
+   "char": "少",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0150"
+  },
+  {
+   "officialSerial": 151,
+   "char": "谁",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0151"
+  },
+  {
+   "officialSerial": 152,
+   "char": "什",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0152"
+  },
+  {
+   "officialSerial": 153,
+   "char": "生",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0153"
+  },
+  {
+   "officialSerial": 154,
+   "char": "师",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0154"
+  },
+  {
+   "officialSerial": 155,
+   "char": "十",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0155"
+  },
+  {
+   "officialSerial": 156,
+   "char": "时",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0156"
+  },
+  {
+   "officialSerial": 157,
+   "char": "识",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0157"
+  },
+  {
+   "officialSerial": 158,
+   "char": "士",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0158"
+  },
+  {
+   "officialSerial": 159,
+   "char": "市",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0159"
+  },
+  {
+   "officialSerial": 160,
+   "char": "事",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0160"
+  },
+  {
+   "officialSerial": 161,
+   "char": "视",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0161"
+  },
+  {
+   "officialSerial": 162,
+   "char": "是",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0162"
+  },
+  {
+   "officialSerial": 163,
+   "char": "手",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0163"
+  },
+  {
+   "officialSerial": 164,
+   "char": "书",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0164"
+  },
+  {
+   "officialSerial": 165,
+   "char": "水",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0165"
+  },
+  {
+   "officialSerial": 166,
+   "char": "睡",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0166"
+  },
+  {
+   "officialSerial": 167,
+   "char": "说",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0167"
+  },
+  {
+   "officialSerial": 168,
+   "char": "司",
+   "sourcePage": 356,
+   "id": "HSK-1-character_recognition-0168"
+  },
+  {
+   "officialSerial": 169,
+   "char": "四",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0169"
+  },
+  {
+   "officialSerial": 170,
+   "char": "岁",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0170"
+  },
+  {
+   "officialSerial": 171,
+   "char": "他",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0171"
+  },
+  {
+   "officialSerial": 172,
+   "char": "它",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0172"
+  },
+  {
+   "officialSerial": 173,
+   "char": "她",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0173"
+  },
+  {
+   "officialSerial": 174,
+   "char": "太",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0174"
+  },
+  {
+   "officialSerial": 175,
+   "char": "题",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0175"
+  },
+  {
+   "officialSerial": 176,
+   "char": "天",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0176"
+  },
+  {
+   "officialSerial": 177,
+   "char": "条",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0177"
+  },
+  {
+   "officialSerial": 178,
+   "char": "听",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0178"
+  },
+  {
+   "officialSerial": 179,
+   "char": "同",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0179"
+  },
+  {
+   "officialSerial": 180,
+   "char": "外",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0180"
+  },
+  {
+   "officialSerial": 181,
+   "char": "玩",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0181"
+  },
+  {
+   "officialSerial": 182,
+   "char": "晚",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0182"
+  },
+  {
+   "officialSerial": 183,
+   "char": "喂",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0183"
+  },
+  {
+   "officialSerial": 184,
+   "char": "文",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0184"
+  },
+  {
+   "officialSerial": 185,
+   "char": "问",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0185"
+  },
+  {
+   "officialSerial": 186,
+   "char": "我",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0186"
+  },
+  {
+   "officialSerial": 187,
+   "char": "五",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0187"
+  },
+  {
+   "officialSerial": 188,
+   "char": "午",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0188"
+  },
+  {
+   "officialSerial": 189,
+   "char": "西",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0189"
+  },
+  {
+   "officialSerial": 190,
+   "char": "息",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0190"
+  },
+  {
+   "officialSerial": 191,
+   "char": "习",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0191"
+  },
+  {
+   "officialSerial": 192,
+   "char": "喜",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0192"
+  },
+  {
+   "officialSerial": 193,
+   "char": "系",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0193"
+  },
+  {
+   "officialSerial": 194,
+   "char": "下",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0194"
+  },
+  {
+   "officialSerial": 195,
+   "char": "先",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0195"
+  },
+  {
+   "officialSerial": 196,
+   "char": "现",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0196"
+  },
+  {
+   "officialSerial": 197,
+   "char": "想",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0197"
+  },
+  {
+   "officialSerial": 198,
+   "char": "小",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0198"
+  },
+  {
+   "officialSerial": 199,
+   "char": "校",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0199"
+  },
+  {
+   "officialSerial": 200,
+   "char": "些",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0200"
+  },
+  {
+   "officialSerial": 201,
+   "char": "写",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0201"
+  },
+  {
+   "officialSerial": 202,
+   "char": "谢",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0202"
+  },
+  {
+   "officialSerial": 203,
+   "char": "新",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0203"
+  },
+  {
+   "officialSerial": 204,
+   "char": "星",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0204"
+  },
+  {
+   "officialSerial": 205,
+   "char": "兴",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0205"
+  },
+  {
+   "officialSerial": 206,
+   "char": "休",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0206"
+  },
+  {
+   "officialSerial": 207,
+   "char": "学",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0207"
+  },
+  {
+   "officialSerial": 208,
+   "char": "雪",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0208"
+  },
+  {
+   "officialSerial": 209,
+   "char": "样",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0209"
+  },
+  {
+   "officialSerial": 210,
+   "char": "要",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0210"
+  },
+  {
+   "officialSerial": 211,
+   "char": "也",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0211"
+  },
+  {
+   "officialSerial": 212,
+   "char": "一",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0212"
+  },
+  {
+   "officialSerial": 213,
+   "char": "衣",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0213"
+  },
+  {
+   "officialSerial": 214,
+   "char": "医",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0214"
+  },
+  {
+   "officialSerial": 215,
+   "char": "宜",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0215"
+  },
+  {
+   "officialSerial": 216,
+   "char": "以",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0216"
+  },
+  {
+   "officialSerial": 217,
+   "char": "椅",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0217"
+  },
+  {
+   "officialSerial": 218,
+   "char": "影",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0218"
+  },
+  {
+   "officialSerial": 219,
+   "char": "友",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0219"
+  },
+  {
+   "officialSerial": 220,
+   "char": "有",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0220"
+  },
+  {
+   "officialSerial": 221,
+   "char": "雨",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0221"
+  },
+  {
+   "officialSerial": 222,
+   "char": "语",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0222"
+  },
+  {
+   "officialSerial": 223,
+   "char": "元",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0223"
+  },
+  {
+   "officialSerial": 224,
+   "char": "院",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0224"
+  },
+  {
+   "officialSerial": 225,
+   "char": "月",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0225"
+  },
+  {
+   "officialSerial": 226,
+   "char": "再",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0226"
+  },
+  {
+   "officialSerial": 227,
+   "char": "在",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0227"
+  },
+  {
+   "officialSerial": 228,
+   "char": "早",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0228"
+  },
+  {
+   "officialSerial": 229,
+   "char": "怎",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0229"
+  },
+  {
+   "officialSerial": 230,
+   "char": "找",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0230"
+  },
+  {
+   "officialSerial": 231,
+   "char": "这",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0231"
+  },
+  {
+   "officialSerial": 232,
+   "char": "真",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0232"
+  },
+  {
+   "officialSerial": 233,
+   "char": "正",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0233"
+  },
+  {
+   "officialSerial": 234,
+   "char": "知",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0234"
+  },
+  {
+   "officialSerial": 235,
+   "char": "只",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0235"
+  },
+  {
+   "officialSerial": 236,
+   "char": "中",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0236"
+  },
+  {
+   "officialSerial": 237,
+   "char": "钟",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0237"
+  },
+  {
+   "officialSerial": 238,
+   "char": "住",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0238"
+  },
+  {
+   "officialSerial": 239,
+   "char": "桌",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0239"
+  },
+  {
+   "officialSerial": 240,
+   "char": "子",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0240"
+  },
+  {
+   "officialSerial": 241,
+   "char": "字",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0241"
+  },
+  {
+   "officialSerial": 242,
+   "char": "租",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0242"
+  },
+  {
+   "officialSerial": 243,
+   "char": "昨",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0243"
+  },
+  {
+   "officialSerial": 244,
+   "char": "作",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0244"
+  },
+  {
+   "officialSerial": 245,
+   "char": "坐",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0245"
+  },
+  {
+   "officialSerial": 246,
+   "char": "做",
+   "sourcePage": 357,
+   "id": "HSK-1-character_recognition-0246"
+  }
+ ],
+ "charactersWriting": [
+  {
+   "officialSerial": 1,
+   "char": "爱",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0001"
+  },
+  {
+   "officialSerial": 2,
+   "char": "八",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0002"
+  },
+  {
+   "officialSerial": 3,
+   "char": "爸",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0003"
+  },
+  {
+   "officialSerial": 4,
+   "char": "百",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0004"
+  },
+  {
+   "officialSerial": 5,
+   "char": "半",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0005"
+  },
+  {
+   "officialSerial": 6,
+   "char": "比",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0006"
+  },
+  {
+   "officialSerial": 7,
+   "char": "边",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0007"
+  },
+  {
+   "officialSerial": 8,
+   "char": "不",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0008"
+  },
+  {
+   "officialSerial": 9,
+   "char": "茶",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0009"
+  },
+  {
+   "officialSerial": 10,
+   "char": "打",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0010"
+  },
+  {
+   "officialSerial": 11,
+   "char": "大",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0011"
+  },
+  {
+   "officialSerial": 12,
+   "char": "地",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0012"
+  },
+  {
+   "officialSerial": 13,
+   "char": "的",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0013"
+  },
+  {
+   "officialSerial": 14,
+   "char": "点",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0014"
+  },
+  {
+   "officialSerial": 15,
+   "char": "对",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0015"
+  },
+  {
+   "officialSerial": 16,
+   "char": "多",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0016"
+  },
+  {
+   "officialSerial": 17,
+   "char": "儿",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0017"
+  },
+  {
+   "officialSerial": 18,
+   "char": "二",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0018"
+  },
+  {
+   "officialSerial": 19,
+   "char": "分",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0019"
+  },
+  {
+   "officialSerial": 20,
+   "char": "哥",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0020"
+  },
+  {
+   "officialSerial": 21,
+   "char": "个",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0021"
+  },
+  {
+   "officialSerial": 22,
+   "char": "工",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0022"
+  },
+  {
+   "officialSerial": 23,
+   "char": "口",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0023"
+  },
+  {
+   "officialSerial": 24,
+   "char": "国",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0024"
+  },
+  {
+   "officialSerial": 25,
+   "char": "过",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0025"
+  },
+  {
+   "officialSerial": 26,
+   "char": "还",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0026"
+  },
+  {
+   "officialSerial": 27,
+   "char": "汉",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0027"
+  },
+  {
+   "officialSerial": 28,
+   "char": "好",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0028"
+  },
+  {
+   "officialSerial": 29,
+   "char": "和",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0029"
+  },
+  {
+   "officialSerial": 30,
+   "char": "很",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0030"
+  },
+  {
+   "officialSerial": 31,
+   "char": "后",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0031"
+  },
+  {
+   "officialSerial": 32,
+   "char": "会",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0032"
+  },
+  {
+   "officialSerial": 33,
+   "char": "几",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0033"
+  },
+  {
+   "officialSerial": 34,
+   "char": "家",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0034"
+  },
+  {
+   "officialSerial": 35,
+   "char": "间",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0035"
+  },
+  {
+   "officialSerial": 36,
+   "char": "叫",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0036"
+  },
+  {
+   "officialSerial": 37,
+   "char": "姐",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0037"
+  },
+  {
+   "officialSerial": 38,
+   "char": "今",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0038"
+  },
+  {
+   "officialSerial": 39,
+   "char": "男",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0039"
+  },
+  {
+   "officialSerial": 40,
+   "char": "九",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0040"
+  },
+  {
+   "officialSerial": 41,
+   "char": "可",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0041"
+  },
+  {
+   "officialSerial": 42,
+   "char": "来",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0042"
+  },
+  {
+   "officialSerial": 43,
+   "char": "了",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0043"
+  },
+  {
+   "officialSerial": 44,
+   "char": "两",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0044"
+  },
+  {
+   "officialSerial": 45,
+   "char": "六",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0045"
+  },
+  {
+   "officialSerial": 46,
+   "char": "妈",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0046"
+  },
+  {
+   "officialSerial": 47,
+   "char": "吗",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0047"
+  },
+  {
+   "officialSerial": 48,
+   "char": "么",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0048"
+  },
+  {
+   "officialSerial": 49,
+   "char": "没",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0049"
+  },
+  {
+   "officialSerial": 50,
+   "char": "们",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0050"
+  },
+  {
+   "officialSerial": 51,
+   "char": "名",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0051"
+  },
+  {
+   "officialSerial": 52,
+   "char": "那",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0052"
+  },
+  {
+   "officialSerial": 53,
+   "char": "你",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0053"
+  },
+  {
+   "officialSerial": 54,
+   "char": "年",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0054"
+  },
+  {
+   "officialSerial": 55,
+   "char": "七",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0055"
+  },
+  {
+   "officialSerial": 56,
+   "char": "去",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0056"
+  },
+  {
+   "officialSerial": 57,
+   "char": "人",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0057"
+  },
+  {
+   "officialSerial": 58,
+   "char": "日",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0058"
+  },
+  {
+   "officialSerial": 59,
+   "char": "三",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0059"
+  },
+  {
+   "officialSerial": 60,
+   "char": "少",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0060"
+  },
+  {
+   "officialSerial": 61,
+   "char": "上",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0061"
+  },
+  {
+   "officialSerial": 62,
+   "char": "什",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0062"
+  },
+  {
+   "officialSerial": 63,
+   "char": "生",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0063"
+  },
+  {
+   "officialSerial": 64,
+   "char": "十",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0064"
+  },
+  {
+   "officialSerial": 65,
+   "char": "时",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0065"
+  },
+  {
+   "officialSerial": 66,
+   "char": "是",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0066"
+  },
+  {
+   "officialSerial": 67,
+   "char": "书",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0067"
+  },
+  {
+   "officialSerial": 68,
+   "char": "说",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0068"
+  },
+  {
+   "officialSerial": 69,
+   "char": "四",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0069"
+  },
+  {
+   "officialSerial": 70,
+   "char": "岁",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0070"
+  },
+  {
+   "officialSerial": 71,
+   "char": "他",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0071"
+  },
+  {
+   "officialSerial": 72,
+   "char": "她",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0072"
+  },
+  {
+   "officialSerial": 73,
+   "char": "天",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0073"
+  },
+  {
+   "officialSerial": 74,
+   "char": "同",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0074"
+  },
+  {
+   "officialSerial": 75,
+   "char": "为",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0075"
+  },
+  {
+   "officialSerial": 76,
+   "char": "文",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0076"
+  },
+  {
+   "officialSerial": 77,
+   "char": "我",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0077"
+  },
+  {
+   "officialSerial": 78,
+   "char": "五",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0078"
+  },
+  {
+   "officialSerial": 79,
+   "char": "午",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0079"
+  },
+  {
+   "officialSerial": 80,
+   "char": "习",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0080"
+  },
+  {
+   "officialSerial": 81,
+   "char": "下",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0081"
+  },
+  {
+   "officialSerial": 82,
+   "char": "小",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0082"
+  },
+  {
+   "officialSerial": 83,
+   "char": "现",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0083"
+  },
+  {
+   "officialSerial": 84,
+   "char": "写",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0084"
+  },
+  {
+   "officialSerial": 85,
+   "char": "学",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0085"
+  },
+  {
+   "officialSerial": 86,
+   "char": "要",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0086"
+  },
+  {
+   "officialSerial": 87,
+   "char": "也",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0087"
+  },
+  {
+   "officialSerial": 88,
+   "char": "一",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0088"
+  },
+  {
+   "officialSerial": 89,
+   "char": "以",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0089"
+  },
+  {
+   "officialSerial": 90,
+   "char": "有",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0090"
+  },
+  {
+   "officialSerial": 91,
+   "char": "语",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0091"
+  },
+  {
+   "officialSerial": 92,
+   "char": "月",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0092"
+  },
+  {
+   "officialSerial": 93,
+   "char": "在",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0093"
+  },
+  {
+   "officialSerial": 94,
+   "char": "长",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0094"
+  },
+  {
+   "officialSerial": 95,
+   "char": "这",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0095"
+  },
+  {
+   "officialSerial": 96,
+   "char": "中",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0096"
+  },
+  {
+   "officialSerial": 97,
+   "char": "子",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0097"
+  },
+  {
+   "officialSerial": 98,
+   "char": "女",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0098"
+  },
+  {
+   "officialSerial": 99,
+   "char": "字",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0099"
+  },
+  {
+   "officialSerial": 100,
+   "char": "作",
+   "group": "1-2",
+   "sourcePage": 377,
+   "id": "HSK-1-2-character_handwriting-0100"
+  }
+ ]
+}

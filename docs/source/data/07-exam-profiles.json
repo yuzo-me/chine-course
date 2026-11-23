@@ -1,0 +1,742 @@
+{
+  "schema_version": "1.0",
+  "verified_on": "2026-11-05",
+  "notice": "Implementation seed, not executable code or official scoring engine.",
+  "profiles": [
+    {
+      "id": "hsk3-2025-2026-1-paper-sample",
+      "level": "1",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 40,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 3,
+      "total_questions": 40,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 20,
+          "approximate_minutes": 12
+        },
+        {
+          "skill": "reading",
+          "questions": 20,
+          "minutes": 20
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 5,
+          "type": "image_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 6,
+          "last": 10,
+          "type": "reply_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 11,
+          "last": 15,
+          "type": "image_matching"
+        },
+        {
+          "skill": "listening",
+          "first": 16,
+          "last": 20,
+          "type": "content_choice"
+        },
+        {
+          "skill": "reading",
+          "first": 21,
+          "last": 25,
+          "type": "image_matching"
+        },
+        {
+          "skill": "reading",
+          "first": 26,
+          "last": 30,
+          "type": "reply_matching"
+        },
+        {
+          "skill": "reading",
+          "first": 31,
+          "last": 35,
+          "type": "gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 36,
+          "last": 40,
+          "type": "comprehension"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-2-paper-sample",
+      "level": "2",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 60,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 3,
+      "total_questions": 60,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 25,
+          "approximate_minutes": 17
+        },
+        {
+          "skill": "reading",
+          "questions": 25,
+          "minutes": 25
+        },
+        {
+          "skill": "writing",
+          "questions": 10,
+          "minutes": 10
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 5,
+          "type": "image_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 6,
+          "last": 15,
+          "type": "image_matching"
+        },
+        {
+          "skill": "listening",
+          "first": 16,
+          "last": 25,
+          "type": "dialogue_comprehension"
+        },
+        {
+          "skill": "reading",
+          "first": 26,
+          "last": 30,
+          "type": "image_matching"
+        },
+        {
+          "skill": "reading",
+          "first": 31,
+          "last": 35,
+          "type": "gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 36,
+          "last": 45,
+          "type": "reply_matching"
+        },
+        {
+          "skill": "reading",
+          "first": 46,
+          "last": 50,
+          "type": "comprehension"
+        },
+        {
+          "skill": "writing",
+          "first": 51,
+          "last": 55,
+          "type": "missing_character_component"
+        },
+        {
+          "skill": "writing",
+          "first": 56,
+          "last": 60,
+          "type": "character_from_pinyin"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-3-paper-sample",
+      "level": "3",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 83,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 5,
+      "total_questions": 70,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 30,
+          "approximate_minutes": 23
+        },
+        {
+          "skill": "reading",
+          "questions": 30,
+          "minutes": 30
+        },
+        {
+          "skill": "writing",
+          "questions": 10,
+          "minutes": 20
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 10,
+          "type": "image_matching"
+        },
+        {
+          "skill": "listening",
+          "first": 11,
+          "last": 20,
+          "type": "dialogue_comprehension"
+        },
+        {
+          "skill": "listening",
+          "first": 21,
+          "last": 30,
+          "type": "message_comprehension"
+        },
+        {
+          "skill": "reading",
+          "first": 31,
+          "last": 40,
+          "type": "reply_matching"
+        },
+        {
+          "skill": "reading",
+          "first": 41,
+          "last": 50,
+          "type": "gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 51,
+          "last": 60,
+          "type": "comprehension"
+        },
+        {
+          "skill": "writing",
+          "first": 61,
+          "last": 65,
+          "type": "character_from_pinyin"
+        },
+        {
+          "skill": "writing",
+          "first": 66,
+          "last": 70,
+          "type": "picture_and_keyword_sentence"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-4-paper-sample",
+      "level": "4",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 85,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 5,
+      "total_questions": 70,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 32,
+          "approximate_minutes": 20
+        },
+        {
+          "skill": "reading",
+          "questions": 32,
+          "minutes": 30
+        },
+        {
+          "skill": "writing",
+          "questions": 6,
+          "minutes": 25
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 14,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 15,
+          "last": 32,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "reading",
+          "first": 33,
+          "last": 42,
+          "type": "word_gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 43,
+          "last": 57,
+          "type": "comprehension"
+        },
+        {
+          "skill": "reading",
+          "first": 58,
+          "last": 64,
+          "type": "sentence_gap_fill"
+        },
+        {
+          "skill": "writing",
+          "first": 65,
+          "last": 69,
+          "type": "picture_and_keyword_sentence"
+        },
+        {
+          "skill": "writing",
+          "first": 70,
+          "last": 70,
+          "type": "composition_min_80_hanzi"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-5-paper-sample",
+      "level": "5",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 110,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 5,
+      "total_questions": 72,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 35,
+          "approximate_minutes": 25
+        },
+        {
+          "skill": "reading",
+          "questions": 35,
+          "minutes": 35
+        },
+        {
+          "skill": "writing",
+          "questions": 2,
+          "minutes": 40
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 19,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 20,
+          "last": 35,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "reading",
+          "first": 36,
+          "last": 45,
+          "type": "contextual_choice"
+        },
+        {
+          "skill": "reading",
+          "first": 46,
+          "last": 55,
+          "type": "paragraph_order"
+        },
+        {
+          "skill": "reading",
+          "first": 56,
+          "last": 70,
+          "type": "comprehension"
+        },
+        {
+          "skill": "writing",
+          "first": 71,
+          "last": 71,
+          "type": "picture_story_min_100_hanzi"
+        },
+        {
+          "skill": "writing",
+          "first": 72,
+          "last": 72,
+          "type": "composition_min_200_hanzi"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-6-paper-sample",
+      "level": "6",
+      "kind": "written",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 125,
+      "administration_minutes": 5,
+      "answer_transfer_minutes": 5,
+      "total_questions": 82,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 40,
+          "approximate_minutes": 30
+        },
+        {
+          "skill": "reading",
+          "questions": 40,
+          "minutes": 40
+        },
+        {
+          "skill": "writing",
+          "questions": 2,
+          "minutes": 45
+        }
+      ],
+      "parts": [
+        {
+          "skill": "listening",
+          "first": 1,
+          "last": 8,
+          "type": "meaning_match"
+        },
+        {
+          "skill": "listening",
+          "first": 9,
+          "last": 28,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "listening",
+          "first": 29,
+          "last": 40,
+          "type": "comprehension_choice"
+        },
+        {
+          "skill": "reading",
+          "first": 41,
+          "last": 50,
+          "type": "word_gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 51,
+          "last": 60,
+          "type": "sentence_gap_fill"
+        },
+        {
+          "skill": "reading",
+          "first": 61,
+          "last": 80,
+          "type": "comprehension"
+        },
+        {
+          "skill": "writing",
+          "first": 81,
+          "last": 81,
+          "type": "practical_text_min_150_hanzi"
+        },
+        {
+          "skill": "writing",
+          "first": 82,
+          "last": 82,
+          "type": "composition_min_300_hanzi"
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification",
+      "audio_playback_policy": "verify_against_complete_official_audio",
+      "computer_mode": "separate_profile_requires_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-3-speaking-sample",
+      "level": "3",
+      "kind": "speaking",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 15,
+      "preparation_minutes": 6,
+      "total_questions": 15,
+      "sections": [
+        {
+          "type": "repeat_after_listening",
+          "questions": 8,
+          "answer_seconds_each": 10
+        },
+        {
+          "type": "picture_description",
+          "questions": 5,
+          "answer_seconds_each": 15,
+          "preparation_seconds_each": 0
+        },
+        {
+          "type": "answer_questions",
+          "questions": 2,
+          "answer_seconds_each": 90,
+          "preparation_seconds_each": 180
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-4-speaking-sample",
+      "level": "4",
+      "kind": "speaking",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 20,
+      "preparation_minutes": 10,
+      "total_questions": 5,
+      "sections": [
+        {
+          "type": "retell",
+          "questions": 2,
+          "answer_seconds_each": 40
+        },
+        {
+          "type": "picture_description",
+          "questions": 1,
+          "answer_seconds_each": 120,
+          "preparation_seconds_each": 180
+        },
+        {
+          "type": "answer_questions",
+          "questions": 2,
+          "answer_seconds_each": 120,
+          "preparation_seconds_each": 210
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-5-speaking-sample",
+      "level": "5",
+      "kind": "speaking",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 23,
+      "preparation_minutes": 10,
+      "total_questions": 5,
+      "sections": [
+        {
+          "type": "retell",
+          "questions": 2,
+          "answer_seconds_each": 90
+        },
+        {
+          "type": "picture_description",
+          "questions": 1,
+          "answer_seconds_each": 120,
+          "preparation_seconds_each": 180
+        },
+        {
+          "type": "answer_questions",
+          "questions": 2,
+          "answer_seconds_each": 150,
+          "preparation_seconds_each": 210
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-6-speaking-sample",
+      "level": "6",
+      "kind": "speaking",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 23,
+      "preparation_minutes": 10,
+      "total_questions": 5,
+      "sections": [
+        {
+          "type": "retell",
+          "questions": 2,
+          "answer_seconds_each": 90
+        },
+        {
+          "type": "picture_description",
+          "questions": 1,
+          "answer_seconds_each": 120,
+          "preparation_seconds_each": 180
+        },
+        {
+          "type": "answer_questions",
+          "questions": 2,
+          "answer_seconds_each": 150,
+          "preparation_seconds_each": 210
+        }
+      ],
+      "official_scoring": null,
+      "scoring_status": "requires_official_verification"
+    },
+    {
+      "id": "hsk3-2025-2026-7-9-integrated-sample",
+      "level": "7-9",
+      "kind": "integrated",
+      "source": "S-03",
+      "verification": "structure_verified_from_official_sample",
+      "approximate_total_minutes": 200,
+      "total_questions": 91,
+      "sections": [
+        {
+          "skill": "listening",
+          "questions": 40,
+          "approximate_minutes": 33
+        },
+        {
+          "skill": "reading",
+          "questions": 40,
+          "minutes": 50
+        },
+        {
+          "skill": "writing",
+          "questions": 2,
+          "minutes": 55
+        },
+        {
+          "skill": "translation",
+          "questions": 4,
+          "approximate_minutes": 42
+        },
+        {
+          "skill": "speaking",
+          "questions": 5,
+          "approximate_minutes": 20
+        }
+      ],
+      "parts": [
+        {
+          "first": 1,
+          "last": 10,
+          "type": "true_false_not_mentioned"
+        },
+        {
+          "first": 11,
+          "last": 22,
+          "type": "choice_or_gap"
+        },
+        {
+          "first": 23,
+          "last": 40,
+          "type": "choice_or_gap"
+        },
+        {
+          "first": 41,
+          "last": 61,
+          "type": "reading_choice"
+        },
+        {
+          "first": 62,
+          "last": 66,
+          "type": "text_order"
+        },
+        {
+          "first": 67,
+          "last": 80,
+          "type": "short_answer_max_10_hanzi"
+        },
+        {
+          "first": 81,
+          "last": 81,
+          "type": "chart_analysis_min_200_hanzi",
+          "minutes": 15
+        },
+        {
+          "first": 82,
+          "last": 82,
+          "type": "essay_min_600_hanzi",
+          "minutes": 40
+        },
+        {
+          "first": 83,
+          "last": 84,
+          "type": "written_translation",
+          "minutes": 35
+        },
+        {
+          "first": 85,
+          "last": 86,
+          "type": "oral_translation",
+          "answer_seconds_each": 120
+        },
+        {
+          "first": 87,
+          "last": 87,
+          "type": "practical_read_and_speak",
+          "answer_seconds": 180
+        },
+        {
+          "first": 88,
+          "last": 90,
+          "type": "listen_and_answer",
+          "answer_seconds": [
+            30,
+            30,
+            120
+          ]
+        },
+        {
+          "first": 91,
+          "last": 91,
+          "type": "opinion",
+          "answer_seconds": 180
+        }
+      ],
+      "sample_translation_source_language": "en",
+      "translation_pairs_available": "verify_for_target_sitting",
+      "official_scoring": null,
+      "level_7_8_9_thresholds": null,
+      "scoring_status": "requires_official_verification"
+    }
+  ],
+  "assessment_policy": {
+    "mode": "fully_automatic",
+    "human_review_required": false,
+    "human_review_fallback": false,
+    "closed_answers": "validated_keys_and_rules",
+    "open_answers": "automatic_rubric_based_assessment",
+    "pronunciation": "audio_based_phoneme_and_tone_assessment",
+    "low_confidence": "one_additional_automatic_assessment_then_request_retry",
+    "service_failure": "persist_answer_and_bounded_automatic_retry",
+    "offline": "local_checks_available_server_checks_wait_for_connection"
+  }
+}
