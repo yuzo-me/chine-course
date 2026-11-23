@@ -99,3 +99,20 @@ test('дракон можно выключить в настройках', async
   await page.getByLabel(/Дракон на фоне/).uncheck()
   await expect(page.getByTestId('dragon')).toHaveCount(0)
 })
+
+test('переворот карточки идёт через анимацию, а скрытая сторона недоступна', async ({ page }) => {
+  await page.goto('/#/cards')
+  const inner = page.locator('.flip-inner')
+  await expect(inner).toHaveCSS('transition-duration', '0.32s')
+  await expect(page.locator('.flip-back')).toHaveJSProperty('inert', true)
+  await page.getByRole('button', { name: 'Перевернуть' }).click()
+  await expect(page.locator('.flip')).toHaveClass(/is-flipped/)
+  await expect(page.locator('.flip-face').first()).toHaveJSProperty('inert', true)
+  await expect(page.locator('.flip-back')).toHaveJSProperty('inert', false)
+})
+
+test('при «уменьшить движение» переворот мгновенный', async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: 'reduce' })
+  await page.goto('/#/cards')
+  await expect(page.locator('.flip-inner')).toHaveCSS('transition-duration', '0s')
+})

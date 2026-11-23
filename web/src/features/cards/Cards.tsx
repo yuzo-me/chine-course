@@ -9,6 +9,8 @@ import { POS_RU } from '../../data/content'
 import { useLocalSetting } from '../../data/hooks'
 
 const SESSION_SIZE = 20
+const reduceMotion = () => typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches
+const FLIP_MS = reduceMotion() ? 0 : 320 // совпадает с --dur-flip в стилях
 
 export function Cards({ words }: { words: Word[] }) {
   const nav = useNavigate()
@@ -19,6 +21,7 @@ export function Cards({ words }: { words: Word[] }) {
   const [flipped, setFlipped] = useState(false)
   const [done, setDone] = useState(0)
   const [again, setAgain] = useState(0)
+  const [busy, setBusy] = useState(false)
 
   const load = useCallback(async () => {
     const rows = await db.cards.toArray()
@@ -32,12 +35,15 @@ export function Cards({ words }: { words: Word[] }) {
   const word = current ? byId.get(current.wordId) : undefined
 
   const rate = useCallback(async (choice: Choice) => {
-    if (!current || !queue) return
+    if (!current || !queue || busy) return
+    setBusy(true)
     await reviewCard(current.wordId, choice, 'cards')
+    setFlipped(false) // карточка переворачивается обратно, и только потом появляется следующая
+    await new Promise((r) => setTimeout(r, FLIP_MS))
     let next = queue.slice(1)
     if (choice === 'again') { next = requeueAfterAgain(next, current); setAgain((a) => a + 1) } else setDone((d) => d + 1)
-    setQueue(next); setFlipped(false)
-  }, [current, queue])
+    setQueue(next); setBusy(false)
+  }, [current, queue, busy])
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -76,30 +82,35 @@ export function Cards({ words }: { words: Word[] }) {
         <span className="muted">{done}/{total}</span>
       </div>
 
-      <Card ornate className="flash" aria-live="polite">
-        {current?.isNew && <span className="badge neutral">Новое слово</span>}
-        <div className="row" style={{ alignItems: 'center' }}>
-          <Chinese>{word.hanzi}</Chinese>
-          <AudioButton word={word} />
-        </div>
-        {!flipped ? (
-          <Button block onClick={() => setFlipped(true)} style={{ marginTop: 'auto' }}>Перевернуть</Button>
-        ) : (
-          <div className="stack" style={{ alignItems: 'center' }}>
+      <div className={`flip ${flipped ? 'is-flipped' : ''}`} data-testid="flip-card">
+        <div className="flip-inner">
+          <Card ornate className="flip-face flash" inert={flipped} aria-hidden={flipped}>
+            {current?.isNew && <span className="badge neutral">Новое слово</span>}
+            <div className="row" style={{ alignItems: 'center' }}>
+              <Chinese>{word.hanzi}</Chinese>
+              <AudioButton word={word} />
+            </div>
+            <Button block disabled={busy} onClick={() => setFlipped(true)} style={{ marginTop: 'auto' }}>Перевернуть</Button>
+          </Card>
+          <Card ornate className="flip-face flip-back flash" inert={!flipped} aria-hidden={!flipped} aria-live="polite">
+            <div className="row" style={{ alignItems: 'center' }}>
+              <Chinese className="zh-char-sm">{word.hanzi}</Chinese>
+              <AudioButton word={word} />
+            </div>
             <Pinyin>{word.pinyin}</Pinyin>
             <p style={{ fontSize: '1.375rem', fontWeight: 700 }}>{word.meaningsRu.join('; ')}</p>
             <p className="muted">{word.pos.map((p) => POS_RU[p] ?? p).join(', ')}</p>
             <Link to={`/dictionary/${word.id}`} className="muted">Открыть в словаре</Link>
-          </div>
-        )}
-      </Card>
+          </Card>
+        </div>
+      </div>
 
-      {flipped ? (
+      {flipped || busy ? (
         <div className="rating" role="group" aria-label="Как хорошо вы помните слово?">
-          <Button className="rate-again" onClick={() => void rate('again')}>{CHOICE_LABEL.again}<small>1</small></Button>
-          <Button className="rate-hard" onClick={() => void rate('hard')}>{CHOICE_LABEL.hard}<small>2</small></Button>
-          <Button id="rate-good" className="rate-good" onClick={() => void rate('good')}>{CHOICE_LABEL.good}<small>3</small></Button>
-          <Button className="rate-easy" onClick={() => void rate('easy')}>{CHOICE_LABEL.easy}<small>4</small></Button>
+          <Button className="rate-again" disabled={busy} onClick={() => void rate('again')}>{CHOICE_LABEL.again}<small>1</small></Button>
+          <Button className="rate-hard" disabled={busy} onClick={() => void rate('hard')}>{CHOICE_LABEL.hard}<small>2</small></Button>
+          <Button id="rate-good" className="rate-good" disabled={busy} onClick={() => void rate('good')}>{CHOICE_LABEL.good}<small>3</small></Button>
+          <Button className="rate-easy" disabled={busy} onClick={() => void rate('easy')}>{CHOICE_LABEL.easy}<small>4</small></Button>
         </div>
       ) : (
         <p className="muted" style={{ textAlign: 'center' }}>Вспомните значение, затем нажмите «Перевернуть» (пробел)</p>

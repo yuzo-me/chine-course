@@ -167,3 +167,15 @@ a { color: var(--c-primary); }
 @keyframes sway { 0%, 100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
 .frieze { display: block; margin: var(--sp-2) 0; opacity: 0.9; }
 @media (max-width: 719px) { .lantern { display: none; } .scenery .clouds { display: none; } }
+
+/* переворот карточки */
+:root { --dur-flip: 320ms; }
+.flip { perspective: 1100px; }
+.flip-inner { display: grid; transform-style: preserve-3d; transition: transform var(--dur-flip) var(--ease); }
+.flip.is-flipped .flip-inner { transform: rotateY(180deg); }
+.flip-face { grid-area: 1 / 1; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+.flip-back { transform: rotateY(180deg); }
+.zh-char-sm { font-size: 2.5rem; line-height: 1.1; }
+@media (prefers-reduced-motion: reduce) {
+  .flip-inner { transition: none; }
+}

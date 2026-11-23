@@ -20,7 +20,7 @@ export function Dragon({ variant }: Props) {
       canvas.width = w * dpr; canvas.height = h * dpr
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
       const narrow = w < 600
-      scene.resize(w, h, { scale: (hero ? 1.25 : 0.85) * (narrow ? 0.7 : 1), speed: hero ? 1 : 0.6, yCenter: hero ? (narrow ? 0.2 : 0.3) : 0.5, yAmp: hero ? (narrow ? 0.09 : 0.2) : 0.3 })
+      scene.resize(w, h, { scale: (hero ? 1.35 : 0.9) * (narrow ? 0.62 : 1), speed: hero ? 1 : 0.6, yCenter: hero ? (narrow ? 0.2 : 0.3) : 0.5, yAmp: hero ? (narrow ? 0.09 : 0.2) : 0.3 })
       scene.draw()
     }
     const frame = (now: number) => {
@@ -40,5 +40,5 @@ export function Dragon({ variant }: Props) {
     return () => { stop(); window.removeEventListener('resize', layout); document.removeEventListener('visibilitychange', onVis); reduce.removeEventListener('change', onReduce) }
   }, [variant])
   return <canvas ref={ref} aria-hidden="true" data-testid="dragon"
-    style={{ position: 'fixed', inset: 0, width: '100vw', height: '100dvh', zIndex: 0, pointerEvents: 'none', opacity: variant === 'hero' ? 0.95 : 0.3 }} />
+    style={{ position: 'fixed', inset: 0, width: '100vw', height: '100dvh', zIndex: 0, pointerEvents: 'none', opacity: variant === 'hero' ? 0.97 : 0.32 }} />
 }
